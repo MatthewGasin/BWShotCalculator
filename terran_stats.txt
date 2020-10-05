@@ -1,0 +1,14 @@
+Battlecruiser L 3 500 25 25 3 3
+Dropship L 1 150 0 0 0 0
+Firebat S 1 50 16c 0 2 2
+Ghost S 0 45 10c 10c 1 1
+Goliath L 1 125 12 20e 1 4
+Marine S 0 40 6 6 1 1
+Medic S 1 60 0 0 0 0
+Missile_Turret L 0 200 0 20e 0 0
+Science_Vessel L 1 200 0 0 0 0
+SCV S 0 60 5 0 0 0
+Siege_Tank L 1 150 30e 0 3 5
+Valkyrie L 2 200 0 6e 1 1
+Vulture M 0 80 20c 0 2 2
+Wraith L 0 120 8 20e 1 2

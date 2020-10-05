@@ -1,0 +1,15 @@
+Arbiter L 1 200 150 10e 10e 1 1
+Archon L 0 10 350 30 30 3 3
+Carrier L 4 300 150 6 6 1 1
+Corsair M 1 100 80 0 5e 1 1
+Dark_Archon L 1 25 200 0 0 0 0
+Dark_Templar S 1 80 40 40 0 3 3
+Dragoon L 1 100 80 20e 20e 2 2
+High_Templar S 0 40 40 0 0 0 0
+Observer S 0 40 20 0 0 0 0
+Photon_Cannon L 0 100 100 20 20 0 0
+Probe S 0 20 20 5 0 0 0
+Reaver L 0 100 80 100 0 0 0
+Scout L 0 150 100 8 28e 1 2
+Shuttle L 1 80 60 0 0 0 0
+Zealot S 1 100 60 16 0 2 2
